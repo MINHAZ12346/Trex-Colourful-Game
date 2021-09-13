@@ -1,1 +1,1 @@
-# Trex-Colourful-Game
+# colourful-trex
